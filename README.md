@@ -2,7 +2,7 @@
 I'm a passionate tech enthusiast currently enrolled in a dual program at Telekom, studying Business Informatics.
 
 While at work I mostly learn about and work with DevOps Programms, like: 
-[![My Skills](https://skillicons.dev/icons?i=docker,grafana,vim&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,grafana,prometheus,linux,git&theme=light)](https://skillicons.dev)
 
 
 
