@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I'm a passionate tech enthusiast currently enrolled in a dual program at Telekom, studying Business Informatics.
+I'm a passionate tech enthusiast currently enrolled in a dual program at Telekom, studying Business Information Systems.
 
 While at work I mostly learn about and work with DevOps Programms, like: 
 [![My Skills](https://skillicons.dev/icons?i=docker,grafana,prometheus,linux,mysql&theme=light)](https://skillicons.dev)
