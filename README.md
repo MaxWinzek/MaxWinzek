@@ -9,4 +9,4 @@ While at work I mostly learn about and work with DevOps Programms, like:
 In my freetime I mostly code in [![My Skills](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev) (who needs another language ;))
 You can find a few small projects on my front page. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Max Winzek)
+[!LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Max Winzek)
